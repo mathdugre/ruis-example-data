@@ -1,0 +1,1 @@
+./manymaths/process.sh glibc-v2.31 101309 /home/glatard/HCP-data ~/singularity-images/pfs-manymaths.sif

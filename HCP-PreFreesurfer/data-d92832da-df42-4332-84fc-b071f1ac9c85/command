@@ -1,0 +1,1 @@
+./manymaths/process.sh musl-v1.1.24-1 101309 /home/glatard/HCP-data ~/singularity-images/pfs-manymaths.sif
