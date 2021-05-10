@@ -1,0 +1,1 @@
+./manymaths/process.sh intel-v2021.2.0 101309 /home/glatard/HCP-data ~/singularity-images/pfs-manymaths.sif

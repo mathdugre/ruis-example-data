@@ -1,0 +1,9 @@
+[INFO] Created temp working directory /home/glatard/RUIS/tmp.h0rfuBeQZR
+Executing command: ./manymaths/process.sh intel-v2021.2.0 101309 /home/glatard/HCP-data ~/singularity-images/pfs-manymaths.sif
+START 1620264472 Wed May  5 21:27:52 EDT 2021
+Data dir: /home/glatard/HCP-data
+LIB: intel-v2021.2.0
+Subject: 101309
+Output dir: /home/glatard/HCP-data/results/intel-v2021.2.0
+END 1620269959 Wed May  5 22:59:19 EDT 2021
+Processing output data...

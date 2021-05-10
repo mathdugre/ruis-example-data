@@ -1,0 +1,1 @@
+./manymaths/process.sh openlibm-v0.7.5 101309 /home/glatard/HCP-data ~/singularity-images/pfs-manymaths.sif

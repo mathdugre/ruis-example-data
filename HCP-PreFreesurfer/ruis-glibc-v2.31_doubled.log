@@ -1,0 +1,9 @@
+[INFO] Created temp working directory /home/glatard/RUIS/tmp.TisoulDtDW
+Executing command: ./manymaths/process.sh glibc-v2.31_doubled 101309 /home/glatard/HCP-data ~/singularity-images/pfs-manymaths.sif
+START 1620264472 Wed May  5 21:27:52 EDT 2021
+Data dir: /home/glatard/HCP-data
+LIB: glibc-v2.31_doubled
+Subject: 101309
+Output dir: /home/glatard/HCP-data/results/glibc-v2.31_doubled
+END 1620269660 Wed May  5 22:54:20 EDT 2021
+Processing output data...
