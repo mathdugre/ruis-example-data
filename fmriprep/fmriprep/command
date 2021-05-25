@@ -1,0 +1,1 @@
+singularity run fmriprep-test.simg "export FS_LICENSE=$PWD/license.txt; fmriprep --random-seed 1234 --fs-no-reconall --anat-only --skull-strip-fixed-seed --nthreads 1 --omp-nthreads 1 SIMON_BIDS/ output participant"
